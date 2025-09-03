@@ -3,7 +3,7 @@ Data Meeting Mingguan
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-Update 130825
+Update 030825
 
 KONTES PENCARIAN INSENTIF
     1. NEW SELLER SAMPAI NAIK LELANG -> 20K (Start 26 Agustus 2025)
@@ -65,29 +65,65 @@ Persiapan Barang :
 12. Alat Barista (Kopi, Sendok, Gelas, Heater)
 13. Alat Affiliate
 
+KOI SHOW SEPTEMBER 2025
+1.⁠ ⁠Kudus koi Show                      12-14 September 2025  => Topo 
+2.⁠ 2nd Skaneka Koi Blitar              28-30 SEPTEMBER 2025  => Topo 
+3. Penjurian KOITHORU DAN ERRA         5-6 SEPTEMBER 2025    => TOPO
+TIM PEMBERANGKATAN
+    1. Topo Harmoko
+    2. Andre 
+    3. Aqill
+    4. Fahrny 
+Dresscode :
+Jum'at, 5 September 2025 -> Seragam Kaos Vol 5.0
+Sabtu, 6 September 2025 -> Seragam Kaos Vol 7.0
+Minggu, 7 September 2025 -> Seragam Kemeja Hitam
 
+Persiapan Barang :
+1. Kaos Vol 7.0 -> 10 Pcs (L 5, XL 5)
+2. Jam Dinding -> 5 Pcs
+3. Gantungan Kunci -> 100
+4. Mug -> 5 Pcs
+5. Goodie Bag -> 50
+6. Support Banner Koithoru dan Erra
+7. Paku + Palu
+
+OKTOBER
+1. 4th SUMATERA BARAT KOI SHOW         3-5 OKTOBER 2025 => TOPO
+TIM PEMBERANGKATAN
+    1.
+    2.
+Dresscode :
+Jum'at, 5 September 2025 -> Seragam Kaos Vol 5.0
+Sabtu, 6 September 2025 -> Seragam Kaos Vol 7.0
+Minggu, 7 September 2025 -> Seragam Kemeja Hitam
+
+Persiapan Barang :
+1. Kaos Vol 7.0 -> 10 Pcs (L 5, XL 5)
+2. Jam Dinding -> 5 Pcs
+3. Gantungan Kunci -> 100
+4. Mug -> 5 Pcs
+5. Goodie Bag -> 50
+6. Support Banner Koithoru dan Erra
+7. Paku + Palu
+
+NOVEMBER
+1.⁠ BAKC KOI SHOW                       NOVEMBER 2025  => Topo 
+2.⁠ MAKASSAR KOI SHOW                   14-16 NOVEMBER 2025  => Topo 
+3.⁠ BLITAR KOI SHOW                     NOVEMBER 2025  => Topo 
+4. MAGELANG                            NOVEMBER 2025  => Topo 
+5. SOLO                                NOVEMBER 2025  => Topo 
+
+DESEMBER
+JEMBER KOI SHOW                     28-30 NOVEMBER 2025  => Topo
 FINAL LIGA JATENG - PATI KOI SHOW | DESEMBER JOS
                                         FEEDBACK : KAOS 6 | TUKAR(BT) 6
                                         Support :
                                         Fresh Money 5 JT
                                         Piala Favorit 3 JT
 
-KOI SHOW SEPTEMBER 2025
-1.⁠ ⁠Kudus koi Show                      12-14 September 2025  => Topo 
-2.⁠ 2nd Skaneka Koi Blitar              28-30 SEPTEMBER 2025  => Topo 
-3. Penjurian KOITHORU DAN ERRA         5-6 SEPTEMBER 2025    => TOPO
-
-OKTOBER
-1.⁠ BAKC KOI SHOW                       17-19 OKTOBER 2025  => Topo 
-2. 4th SUMATERA BARAT KOI SHOW         3-5 OKTOBER 2025 => TOPO
-
-NOVEMBER
-1.⁠ MAKASSAR KOI SHOW                   14-16 NOVEMBER 2025  => Topo 
-2.⁠ JEMBER KOI SHOW                     28-30 NOVEMBER 2025  => Topo 
-3.⁠ BLITAR KOI SHOW                     NOVEMBER 2025  => Topo 
-4. MAGELANG 
-5. SOLO
-
+Master Koi BOT GO INTERNASIONAL
+1. Multi Languages Indonesia dan Inggris
 
 MegaJumbo Meet in Jakarta
     1.⁠ ⁠Mereka ingin kolaborasi membuat startup platform kontes online segala aquatic, kita di IT Supportnya, mereka di sisi marketingnya.
