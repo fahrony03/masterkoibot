@@ -3,7 +3,7 @@ Data Meeting Mingguan
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-Update 030825
+Update 100925
 
 KONTES PENCARIAN INSENTIF
     1. NEW SELLER SAMPAI NAIK LELANG -> 20K (Start 26 Agustus 2025)
@@ -67,6 +67,35 @@ Persiapan Barang :
 
 KOI SHOW SEPTEMBER 2025
 1.⁠ ⁠Kudus koi Show                      12-14 September 2025  => Topo 
+    Turunkan ikan master koi ke Marcel  -> ROMADHON
+    Info List Vat ke HKC Kudus          -> ANDRE
+    Minta Space Booth                   -> TOPO
+TIM PEMBERANGKATAN
+Jum'at 12 September 2025, Jam 09.00
+    1. Romadhon
+    2. GT 
+    3. Andre
+    4. Rony
+    5. Aqil
+Dresscode :
+    Jum'at, 12 Sept 2025 -> Seragam Kaos Vol 5.0
+    Sabtu, 13 Sept 2025 -> Seragam Kaos Vol 7.0
+    Minggu, 14 Sept 2025 -> Seragam Kemeja Hitam
+Persiapan Barang :
+    1. Kaos Vol 7.0 -> 20 Pcs (L 10, XL 10)
+    2. Jam Dinding -> 5 Pcs
+    3. Gantungan Kunci -> 1 Dus
+    4. Mug -> 8 Pcs
+    5. Goodie Bag -> 1 Plastik
+    6. Roll Banner -> 4
+    7. Booth Portable -> 1
+    8. Rak -> 1
+    9. Bendera -> 1
+    10. Auto Feeder -> 2 (1Besar dan 1Kecil)
+    11. Stop Kontak -> 1
+    12. Alat Barista (Kopi, Sendok, Gelas, Heater)
+    13. Alat Affiliate
+
 2.⁠ 2nd Skaneka Koi Blitar              28-30 SEPTEMBER 2025  => Topo 
 3. Penjurian KOITHORU DAN ERRA         5-6 SEPTEMBER 2025    => TOPO
 TIM PEMBERANGKATAN
@@ -91,21 +120,23 @@ Persiapan Barang :
 OKTOBER
 1. 4th SUMATERA BARAT KOI SHOW         3-5 OKTOBER 2025 => TOPO
 TIM PEMBERANGKATAN
-    1.
-    2.
+    1. Erfan
+    2. Romadhon
+    3. Andre
+    4. Fhrny
 Dresscode :
-Jum'at, 5 September 2025 -> Seragam Kaos Vol 5.0
-Sabtu, 6 September 2025 -> Seragam Kaos Vol 7.0
-Minggu, 7 September 2025 -> Seragam Kemeja Hitam
-
+    Kamis, 2 Okt 2025 -> Seragam Kaos Vol 5.0
+    Jum'at, 3 Okt 2025 -> Seragam Kaos Vol 7.0
+    Sabtu, 4 Okt 2025 -> Seragam Kemeja Putih
+    Minggu, 5 Okt 2025 -> Seragam Kemeja Hitam
 Persiapan Barang :
-1. Kaos Vol 7.0 -> 10 Pcs (L 5, XL 5)
-2. Jam Dinding -> 5 Pcs
-3. Gantungan Kunci -> 100
-4. Mug -> 5 Pcs
-5. Goodie Bag -> 50
-6. Support Banner Koithoru dan Erra
-7. Paku + Palu
+    1. Auto Feeder Besar dan Kecil (Masing - Masing satu) - Dikirim
+    2. Stand Booth Portable - Dikirim
+    3. 4 Roll Banner - Dikirim
+    4. Kaos 15pcs (8 Doorprize + 7 Panitia) - Dikirim
+    5. Jam Dinding 3pcs - Dikirim
+    6. Ganci 50pcs - Dikirim
+    7. Goodie Bag 20pcs - Dikirim
 
 NOVEMBER
 1.⁠ BAKC KOI SHOW                       NOVEMBER 2025  => Topo 
