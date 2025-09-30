@@ -3,7 +3,7 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 170925 -->
+<!-- Update 300925 -->
 
 KONTES PENCARIAN INSENTIF 
     1. NEW SELLER SAMPAI NAIK LELANG -> 20K (Start 26 Agustus 2025)
@@ -116,29 +116,6 @@ KOISMAG - FAHRONY dan GITA (DEADLINE 16 AGUSTUS 2025) CLEARRRRRRRR BOS✅
 SUKA DUKA SAN CHERY KOI FARM AGUSTUS 2025
     1. Sistem Verified Member -> SETUJU
     2. Membedakan Seller lama dan Seller baru -> SOLUSINYA RATING dan PERFORMA SELLER
-
-KONTRAK EVENT => AQIL => ✅ Cek Donenya
-Buatkan kontrak event tentang deal2an khusus untuk event (kc => 2 jt, Az dan GO => 5jt)
-1.⁠ ⁠Video Iklan
-    a. Menampilkan 2 video iklan Master Koi BOT (Video 1 => 18 Detik, Video 2 => 59 Detik) 
-    b. Menggunakan channel youtube nasional(Wahana, Oke Green, Ebisu, Buchori, Atau yang memiliki Subscriber Lebih dari 20K)
-    c. Video 1 diletakkan 3 menit awal, Video 2 diletakkan di 3 menit akhir
-    d. Video tidak dipotong atau dipercepat
-2.⁠ ⁠Jaminan KC
-    a. Hadiah/reward keeping contest wajib diserahkan kepada pihak Master Koi BOT, dengan perhitungan jumlah ekor x OB
-    b. Penyerahan hadiah kepada pemenang KC, dibayarkan oleh pihak Master Koi BOT
-    c. KC dibatalkan apabila tidak memenuhi target penjualan yang telah di sepakati
-    d. Jaminan KC akan dikembalikan setelah pihak seller mengumumkan di dalam grup WA bahwa KC dibatalkan.
-3.⁠ ⁠Support Master Koi BOT
-    a. Seller yang sudah memenuhi syarat poin 1 dan 2 akan mendapatkan support berupa :
-        - Special fee bot maksimal 2jt untuk KC, maksimal 5jt untuk AZ/GO
-        - Support dooprize official merchandise(Auto Feeder, Kaos, Jam Dinding dan Gantungan Kunci) Masing masing satu
-    b. Apabila seller tidak sesuai dengan aturan maka akan diberlakukan tarif normal 5% berapapun omzetnya
-4.⁠ ⁠Teknis Event Lelang
-    a. Wajib Iklan 400ribu (Ditayangkan 7 Hari)
-    b. Tarif Minimal 1 jt untuk KC, 3jt untuk AZ/GO
-    c. Minimal 20 ekor
-    d. Minimal 2 sesi 
 
 NUSATIC APP
 1.⁠ ⁠Nusatic 200625 
