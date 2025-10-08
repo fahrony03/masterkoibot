@@ -3,100 +3,43 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 300925 -->
+<!-- Update 081025 -->
 
-KONTES PENCARIAN INSENTIF 
-    1. NEW SELLER SAMPAI NAIK LELANG -> 20K (Start 26 Agustus 2025)
-    2. PUSH -> TARGET TOTAL 5jt
+--- Fahrony
+HARBOLNAS 10.10 Khusus pelaku BNR diskon 50% dari denda (Masterkoi.bid/bnr)
+Pelaku BNR yang dendanya diatas 200k Akan mendapatkan bonus kaos master koi vol 7.0
+
+MASTER KOI STORE (Launching 07 Oktober 2025) On Going
+1. UJI Pembelian Dani Noclass dari sisi seller dan Aqil dari sisi Buyer (Komunikasikan terkait kekurangan dan kesulitan dalam penggunaan Master Koi Store)
+2. 
+
 
 PER 1 JULI 2025 EVENT KC WAJIB JAMINAN | OB x JUMLAH IKAN
 PER 1 JULI 2025 EVENT GO dan AZUKARI WAJIB JAMINAN | 5.000.000 | Seller yang belum Tervalidasi
 
-KOI SHOW JULI 2025 | Support Merch
-1st Bupati Banyumas Cup Purwokerto      04-06 Jul 2025 (LIGA JATENG) Banner Slider✅ ✅
-8th Balikpapan Koi & Aquatic Show       18-20 Jul 2025 ❌
-WONOSOBO KOI FESTIVAL                   2025 25-27 Jul 2025 (LIGA JATENG)✅
-
 KOI SHOW :
-
-KOI SHOW SEPTEMBER 2025
-1.⁠ ⁠Kudus koi Show                      12-14 September 2025  => Topo 
-    Turunkan ikan master koi ke Marcel  -> ROMADHON
-    Info List Vat ke HKC Kudus          -> ANDRE
-    Minta Space Booth                   -> TOPO
-
-Persiapan Barang :
-    1. Kaos Vol 7.0 -> 20 Pcs (L 10, XL 10)
-    2. Jam Dinding -> 5 Pcs
-    3. Gantungan Kunci -> 1 Dus
-    4. Mug -> 8 Pcs
-    5. Goodie Bag -> 1 Plastik
-    6. Roll Banner -> 4
-    7. Booth Portable -> 1
-    8. Rak -> 1
-    9. Bendera -> 1
-    10. Auto Feeder -> 2 (1Besar dan 1Kecil)
-    11. Stop Kontak -> 1
-    12. Alat Barista (Kopi, Sendok, Gelas, Heater)
-    13. Alat Affiliate
-
-2.⁠ 2nd Skaneka Koi Blitar              28-30 SEPTEMBER 2025  => Topo 
-
-3.⁠ ⁠ZNA Bandung Chapter - Support Saja
-Support Merchandise dikirim Via Kalog:
-1.⁠ ⁠Auto-Feeder Besar Kecil Fisik (Masing-Masing 1)
-2.⁠ ⁠Jam dinding 2Pcs
-3.⁠ ⁠Kaos Master Koi BOT 3Pcs
-4.⁠ ⁠Ganci 10Pcs
-
-Paket Doorprize:
-    1. Auto-Feeder besar 1 Pcs
-    2. Auto-Feeder kecil 1 Pcs
-    
-Paket include penyerahan trophy :
-    1. 2Set GoodieBag Isi : Jam dinding 1Pcs + Ganci 2Pcs 
-    2. 3Set GoodieBag isi : Kaos 1Pcs + Ganci 2Pcs
-
-    Penerima Paket Hari ini -> Topo
-
 OKTOBER
-1.⁠ ⁠4th SUMATERA BARAT KOI SHOW         3-5 OKTOBER 2025 => TOPO
-Mintakan Denah Venue -> Topo
 
-TIM PEMBERANGKATAN
-    1. Erfan
-    2. Romadhon
-    3. Andre
-    4. Fhrny
-Dresscode :
-    Kamis, 2 Okt 2025 -> Seragam Kaos Vol 5.0
-    Jumat, 3 Okt 2025 -> Seragam Kaos Vol 7.0
-    Sabtu, 4 Okt 2025 -> Seragam Kemeja Putih
-    Minggu, 5 Okt 2025 -> Seragam Kemeja Hitam
-
-Persiapan Barang, dikirim pada tanggal 23/24 September 2025 - Via baraka ekspress: (Aqil & Andre)
-    1. Auto Feeder Besar dan Kecil (Masing - Masing satu) - Dikirim
-    2. Stand Booth Portable - Dikirim
-    3. 4 Roll Banner - Dikirim
-    4. Kaos 15pcs (8 Doorprize + 7 Panitia) - Dikirim
-    5. Jam Dinding 5pcs - Dikirim
-    6. Ganci 50pcs - Dikirim
-    7. Goodie Bag 20pcs - Dikirim
 
 NOVEMBER
 1.⁠ BAKC KOI SHOW                       NOVEMBER 2025  => Topo 
 2.⁠ MAKASSAR KOI SHOW                   14-16 NOVEMBER 2025  => Topo 
-3.⁠ BLITAR KOI SHOW                     NOVEMBER 2025  => Topo 
-4.⁠ ⁠MAGELANG                            NOVEMBER 2025  => Topo 
-5.⁠ ⁠SOLO                                NOVEMBER 2025  => Topo 
+3.⁠ ⁠MAGELANG                            NOVEMBER 2025  => Topo 
+4.⁠ ⁠SOLO                                NOVEMBER 2025  => Topo 
+5. PENJURIAN ASTRO BLITAR KOI          9 NOVEMBER 2025 => TOPO
 
 DESEMBER
+BLITAR KOI SHOW                     5-7 DESEMBER 2025  => Topo 
 JEMBER KOI SHOW                     28-30 NOVEMBER 2025  => Topo
 FINAL LIGA JATENG - PATI KOI SHOW | DESEMBER JOS
                                         FEEDBACK : KAOS 6 | TUKAR(BT) 6
                                         Support :
                                         Fresh Money 5 JT
                                         Piala Favorit 3 JT
+
+JANUARI 2026
+SERDADU KOI SHOW                    JANUARI 2026 => TOPO
+
 
 Master Koi BOT GO INTERNASIONAL
 1.⁠ ⁠Multi Languages Indonesia dan Inggris
@@ -154,19 +97,10 @@ MASTER KOI THAILAND => DAYAN Transisi Teknologi JOS GANDOS
 5.⁠ ⁠Pengiriman Manual, Payment ???????????????????????????????????????
 6.⁠ ⁠Teknologi Full Master Koi BOT 
 
-FITUR EFISIENSI MASTER KOI BOT (DONE✅)
-1.⁠ ⁠Kompresi Foto LEBAR 512px .JPG (YUGA)
-2.⁠ ⁠Streaming File Untuk Video (YUGA)
-
-MEETING KHUSUS UNTUK DELIVERY API ✅
-
-TOYOTA ASTRA FINANCE BOT ✅
-1.⁠ ⁠Meminta penawaran 
-2.⁠ ⁠DEADLINE TANGGAL 16 JULI 2025
-
 MEMBUAT FITUR BARU -> GITA
 1.⁠ ⁠Konsultasi pembuatan kolam
 2.⁠ ⁠Jasa Maintenance Kolam
+
 KEBUTUHAN :
 Form Pendaftaran
 
@@ -180,7 +114,6 @@ ADS AND ENDORSE (Target Penghobi dan calon Penghobi)
 7.⁠⁠ Iklan di Chat WhatsApp Notifikasi Pemenang Lelang (3jt per Bulan)
 8.⁠⁠ Highlight/ Top Banner (5jt per Bulan)
 9.⁠ Co-Branding Placement [Brand pengiklan mengambil alih tampilan visual utama aplikasi (misal warna dominan, background, banner, dan ikon kecil non-fungsional], 15jt per Bulan, atau 5jt per 7 hari.
-
 
 LIVE TIKTOK => Romadhon
     - Formal
@@ -231,15 +164,6 @@ Penagihan Seller ‼️
 2.⁠ ⁠Pak Purwo untuk debt kolektor = Topo
 3.⁠ ⁠Data monitoring = Andres
 
-Rekpen✅
-1.⁠ ⁠Poin bagi pengguna Rekpen => PIC ERFAN DONE
-
-Mekanisme Anti Joki (Yuga)
-1.⁠ ⁠Evaluasi Joki LKN
-2.⁠ ⁠Deposit Bidder
-3.⁠ ⁠Update Rekpen menggunakan fitur Wallet
-4.⁠ ⁠Saldo wallet adalah 20% dari harga ikan yang di-bid
-
 Fitur Baru (Erfan & Yuga)
 1.⁠ ⁠Auto bid Buyer menyerahkan deposit untuk budget memenangkan ikan tertentu 
 2.⁠ ⁠Lelang khusus yang mewajibkan buyer menyerahkan deposit
@@ -258,25 +182,9 @@ Referal new Bidder for user
     - Idola Aquatic
     - Depan Anaga
 
-
-
 Fauna Express => PIC Erfan
-1.⁠ ⁠Cek Api Grab dan GoSend => PIC Yuga ❌
-2.⁠ ⁠Coretax => Gita (Lapor pajak dan minta dibekukan)✅
-
-
-//HASIL LAPANGAN BLITAR KEDIRI
-•⁠  ⁠master koi mulai kehilangan marwah di mata beberapa buyer dan seller saat acara kumpul kumpul
-•⁠  ⁠kasus haes memberi penilaian bahwa master koi gak terlalu peduli dengan nama baik penggunanya dengan lambatnya klarifikasi
-•⁠  ⁠fitur deposit tidak di imbangi solusi yg cepat apa bila nama bank buyer tidak terdaftar d xendit
-•⁠  ⁠ada beberapa seller minta kasus om haes di blasting ke semua group karena sudah melebar ke mana mana
-•⁠  ⁠kasus haes menurunkan kredibilitas master koi
-•⁠  ⁠keberatan deposit azukari dan kc di atas 200 ribu
-•⁠  ⁠Pembuatan Surat tugas Debt Collector ( Lutfi )
-•⁠  ⁠Pembayaran deposit BID kalau bisa pakai QRIS
-•⁠  ⁠Jika yang mengadakan Event pakai Deposit ( Reguler maupun Premium ) Tidak perlu pakai REKPEN, tapi jika Tidak ada Deposit Wajib pakai REKPEN
-•⁠  ⁠Pada halaman ikan yang dimenangkan atau di menu " Ikan saya " ditambahkan tombol Bayar menggunakan Deposit BID
-
+1.⁠ Menggunakan Biteship
+2. Cetak Inv 3ply dengan logo fauna express
 
 NOTULENSI RAPAT HIKARI GROOMING CONTEST
 Timeline
@@ -321,3 +229,14 @@ Finishnya
 Strategi Hikari yang mungkin bisa kolaborasi :
 1.⁠ ⁠Meningkatkan Event rumahan (AZUKARI)
 2.
+
+TAF 
+1. Development 22/09 - 17/10
+2. UAT 20/10 - 05/11
+3. Go Live 08/11 - 11/11
+4. User Guide 13 Oktober 2025
+Perubahan :
+1. Halaman awal aplikasi adalah halaman LOG IN
+2. Downloader tidak bisa melihat unit yang dilelang
+3. Data Buyer diinputkan oleh admin TAF melalui Backoffice, ditentukan diawal metode pembayaran (Cash/Credit).
+4. Disediakan data event yang akan datang
