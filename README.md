@@ -3,11 +3,7 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 081025 -->
-
---- Fahrony
-HARBOLNAS 10.10 Khusus pelaku BNR diskon 50% dari denda (Masterkoi.bid/bnr)
-Pelaku BNR yang dendanya diatas 200k Akan mendapatkan bonus kaos master koi vol 7.0
+<!-- Update 291025 -->
 
 MASTER KOI STORE (Launching 07 Oktober 2025) On Going
 1. UJI Pembelian Dani Noclass dari sisi seller dan Aqil dari sisi Buyer (Komunikasikan terkait kekurangan dan kesulitan dalam penggunaan Master Koi Store)
@@ -25,8 +21,11 @@ NOVEMBER
 1.⁠ BAKC KOI SHOW                       NOVEMBER 2025  => Topo 
 2.⁠ MAKASSAR KOI SHOW                   14-16 NOVEMBER 2025  => Topo 
 3.⁠ ⁠MAGELANG                            NOVEMBER 2025  => Topo 
-4.⁠ ⁠SOLO                                NOVEMBER 2025  => Topo 
+4.⁠ ⁠SOLO                                21 - 23 NOVEMBER 2025  => Topo
+                                       Piala => Topo
 5. PENJURIAN ASTRO BLITAR KOI          9 NOVEMBER 2025 => TOPO
+6. GRAND LAUNCHING YAMAGEN KOI SHINKOKAI
+7. BONTANG KOI SHOW                    7 - 9 November 2025
 
 DESEMBER
 BLITAR KOI SHOW                     5-7 DESEMBER 2025  => Topo 
@@ -240,3 +239,10 @@ Perubahan :
 2. Downloader tidak bisa melihat unit yang dilelang
 3. Data Buyer diinputkan oleh admin TAF melalui Backoffice, ditentukan diawal metode pembayaran (Cash/Credit).
 4. Disediakan data event yang akan datang
+
+
+MASTER KOISCAPE SPESIAL 3rd Anniversary Master Koi BOT
+
+
+Start           21 Nov 2025
+Penjurian       21 Des 2025
