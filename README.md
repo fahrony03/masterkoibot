@@ -3,29 +3,78 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 291025 -->
+<!-- Update 171225 -->
+
+INSENTIF NEW PRODUCT 
+50k Per Product (WAJIB ACC)
+
+PEMBERLAKUAN DENDA TIDAK HADIR WEEKLY MEETING
+1. C Level => 250k (ERFAN,GITA,TOPO,YUGA,DAYAN,ROMADHON)
+2. Manager => 200k (ANDRE, FAHRONY)
+3. Staf => 150k (ARIF, AQIL, DESTA)
+MEKANISME IJIN
+Sakit = Wajib Surat keterangan dokter (Pribadi dan Keluarga)
+Perjalanan Dinas (Neturmeric, Master Koi BOT)
+Tetangga Meninggal (Wajib Selfie Timestamp)
 
 MASTER KOI STORE (Launching 07 Oktober 2025) On Going
 1. UJI Pembelian Dani Noclass dari sisi seller dan Aqil dari sisi Buyer (Komunikasikan terkait kekurangan dan kesulitan dalam penggunaan Master Koi Store)
-2. 
+2. Insentif NOO -> Setiap pendaftaran dan 
 
+REEDEM POINT --> MASTER KOI STORE
+DOORPRIZE --> MASTER KOI STORE
 
 PER 1 JULI 2025 EVENT KC WAJIB JAMINAN | OB x JUMLAH IKAN
 PER 1 JULI 2025 EVENT GO dan AZUKARI WAJIB JAMINAN | 5.000.000 | Seller yang belum Tervalidasi
-
-KOI SHOW :
-OKTOBER
-
 
 NOVEMBER
 1.⁠ BAKC KOI SHOW                       NOVEMBER 2025  => Topo 
 2.⁠ MAKASSAR KOI SHOW                   14-16 NOVEMBER 2025  => Topo 
 3.⁠ ⁠MAGELANG                            NOVEMBER 2025  => Topo 
 4.⁠ ⁠SOLO                                21 - 23 NOVEMBER 2025  => Topo
+                                       PIC = ROMADHON 
+                                       2jt Fresh Money Akan di TF Hari Senin 24 Nov 
+                                       & 3jt Produk Meliputi :
+                                       2 Auto Feeder => 1.8jt
+                                       5 Kaos Vol 7.0 => 750rb
+                                       5 Jam Dinding => 500rb
+                                       5 Mug => 250rb
+                                       Required :
                                        Piala => Topo
-5. PENJURIAN ASTRO BLITAR KOI          9 NOVEMBER 2025 => TOPO
+
+TIM PEMBERANGKATAN :
+1. Erfan
+2. GT
+3. ROM
+4. RONY
+5. DESI
+6. ABIL
+
+BERANGKAT JAM : 07.30
+
+DRESSCODE
+Jumat, 21 Nov 2025 : Vol 5.0
+Sabtu, 22 Nov 2025 : Vol 7.0
+Minggu, 23 Nov 2025 : Seragam Hitam 
+
+Barang Yang Akan dibawa :
+PIC : ABIL
+1. Auto Feeder Besar => 1
+2. Auto Feeder Mini => 1
+3. Jam Dinding => 8
+4. Kaos vol 7.0 => 12
+5. Mug => 8
+6. Ganci => 100
+7. Stand
+8. Roll Banner => 2
+9. Rak
+10. Goodie Bag 100
+
+
+
 6. GRAND LAUNCHING YAMAGEN KOI SHINKOKAI
 7. BONTANG KOI SHOW                    7 - 9 November 2025
+
 
 DESEMBER
 BLITAR KOI SHOW                     5-7 DESEMBER 2025  => Topo 
@@ -33,11 +82,37 @@ JEMBER KOI SHOW                     28-30 NOVEMBER 2025  => Topo
 FINAL LIGA JATENG - PATI KOI SHOW | DESEMBER JOS
                                         FEEDBACK : KAOS 6 | TUKAR(BT) 6
                                         Support :
-                                        Fresh Money 5 JT
+                                        Fresh Money 5 JT (Sudah ada inv)
                                         Piala Favorit 3 JT
+TIM PEMBERANGKATAN :
+
+
+
+BERANGKAT JAM : 07.30
+
+DRESSCODE
+Jumat, 21 Nov 2025 : Vol 5.0
+Sabtu, 22 Nov 2025 : Vol 7.0
+Minggu, 23 Nov 2025 : Seragam Hitam 
+
+Barang Yang Akan dibawa :
+PIC : ABIL
+1. Auto Feeder Besar => 1
+2. Auto Feeder Mini => 1
+3. Jam Dinding => 8
+4. Kaos vol 7.0 => 12
+5. Mug => 8
+6. Ganci => 100
+7. Stand
+8. Roll Banner => 2
+9. Rak
+10. Goodie Bag 100
+
 
 JANUARI 2026
 SERDADU KOI SHOW                    JANUARI 2026 => TOPO
+
+SPPG SISTEM
 
 
 Master Koi BOT GO INTERNASIONAL
@@ -240,9 +315,68 @@ Perubahan :
 3. Data Buyer diinputkan oleh admin TAF melalui Backoffice, ditentukan diawal metode pembayaran (Cash/Credit).
 4. Disediakan data event yang akan datang
 
+PENAMABAHAN FITUR
+1. Tambah Deposit diapp => Dayan
+
 
 MASTER KOISCAPE SPESIAL 3rd Anniversary Master Koi BOT
 
 
 Start           21 Nov 2025
 Penjurian       21 Des 2025
+
+Sosial Media
+Youtube, Tiktok, Instagram
+- Momentum (Penjurian, Koishow)
+- Timeline Edit
+- Pemilihan Konten Menarik
+- Pembuatan Tumbnail (Angkat Topik Menariknya) Kurangi kata - kata monoton
+- Pemilihan Judul yang friendly to click, angkat judul kontroversional
+- Efisiensi konten dan kecepatan pengeditan dilokasi
+
+
+KPI KOISHOW
+- Pendekatan orang baru | Insentif 25.000 perorang dibuktikan dengan foto dan bukti Download aplikasi + rating bintang 5 | Setor Nomor HP
+    - Dari Mana?
+    - Bawak ikan?
+    - Dirumah ada kolam?
+    - Belanja ikan kesiapa?
+    - Sudah pernah tau ada lelang koi otomatis?
+    - Arahkan untuk download aplikasi
+    - Kalo mau login bisa mendapatkan kaos, di arahkan ke Stand Master Koi BOT
+
+Ciri - ciri penghobi koi dishow
+    - Beli pakan
+    - Liat-liat ikan diVAT
+    - Berkunjung dengan keluarga 
+
+KOI POND CONTEST  FreshMoney Dihapus
+Event Bersama  1 Januari   BUAT PROPOSAL 
+1. POND CONSTEST TANPA HADIAH UANG
+    1. Support Produk
+    2. Dimulai 1 Januari 2026
+    3. Ads Video
+2. PROPOSAL BIASA DENGAN FRESH MONEY
+
+
+
+KOI POND CONTEST  FreshMoney Dihapus
+Event Bersama  1 Januari   BUAT PROPOSAL 
+1. POND CONSTEST TANPA HADIAH UANG
+    1. Support Produk
+    2. Dimulai 1 Januari 2026
+    3. Ads Video
+2. PROPOSAL BIASA DENGAN FRESH MONEY
+
+
+
+KOI POND CONTEST  FreshMoney Dihapus
+Event Bersama  1 Januari   BUAT PROPOSAL 
+1. POND CONSTEST TANPA HADIAH UANG
+    1. Support Produk
+    2. Dimulai 1 Januari 2026
+    3. Ads Video
+2. PROPOSAL BIASA DENGAN FRESH MONEY
+
+
+
