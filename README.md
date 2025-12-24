@@ -78,7 +78,7 @@ PIC : ABIL
 
 DESEMBER
 BLITAR KOI SHOW                     5-7 DESEMBER 2025  => Topo 
-JEMBER KOI SHOW                     28-30 NOVEMBER 2025  => Topo
+JEMBER KOI SHOW                     28-30 DESEMBER 2029  => Topo
 FINAL LIGA JATENG - PATI KOI SHOW | DESEMBER JOS
                                         FEEDBACK : KAOS 6 | TUKAR(BT) 6
                                         Support :
@@ -110,7 +110,13 @@ PIC : ABIL
 
 
 JANUARI 2026
-SERDADU KOI SHOW                    JANUARI 2026 => TOPO
+PENGANGKATAN IKAN AZUKARI IWAK LARANG           10-11 JANUARI 2026 => ROM  (OTW)
+SERDADU KOI SHOW 2026                           16-18 JANUARI 2026 => TOPO (NO OTW)
+PENJURIAN BLITAR RAJA BRANTAS, GENDUT, KUNDEN   16-18 JANUARI 2026 => TOPO (OTW)    
+AZUKARI YAMAGEN                                 MINGGU KE 4
+
+FEBRUARI
+PALANGKARAYA KOI SHOW                           5-7 FEBRUARI 2026 => TOPO
 
 SPPG SISTEM
 
@@ -352,31 +358,35 @@ Ciri - ciri penghobi koi dishow
 
 KOI POND CONTEST  FreshMoney Dihapus
 Event Bersama  1 Januari   BUAT PROPOSAL 
-1. POND CONSTEST TANPA HADIAH UANG
+1. POND CONSTEST TANPA HADIAH UANG => DONE✅
     1. Support Produk
     2. Dimulai 1 Januari 2026
     3. Ads Video
-2. PROPOSAL BIASA DENGAN FRESH MONEY
+2. PROPOSAL BIASA DENGAN FRESH MONEY => DONE✅
+
+KOORDINASI TERKAIT AKUN YANG DI MENTION
+1. Sponsorship
+2. Juri (Banyu Ngalam - Paman Keko)
+3. CTA -> Website -> Share link ke CP (DIVALIDASI) 
+(GOOGLE FORM BISA LEBIH DARI 1 INPUTAN, FORM INI BISA DISEBAR LUASKAN)
+    1. Nama
+    2. Nomor WA
+    3. Link Konten
+4. Total Hadiah 10jt (PRODUK)
+KEJARRRRRRR!!!!
 
 
+ADJUST EVENT KC (JADIKAN SEBAGAI POSTER) - WAJIB JAMINAN‼️✝️
+1. SELURUH KC -> Flat Min 1jt - Maks 3jt (TARIF 5%)
+2. PAKET LENGKAP PREMIUM (DOORPRIZE) -> Cashback ads slider 400k diganti menjadi subsidi juri @250k (Maksimal 5 juri)
+3. Subsidi juri di transfer langsung ke rekening juri
+4. Fasilitas Live video tiktok Penjurian
+5. Paket ads youtube bisa diganti dengan slider ads (1 bulan -> 1jt, free redesain 1)
 
-KOI POND CONTEST  FreshMoney Dihapus
-Event Bersama  1 Januari   BUAT PROPOSAL 
-1. POND CONSTEST TANPA HADIAH UANG
-    1. Support Produk
-    2. Dimulai 1 Januari 2026
-    3. Ads Video
-2. PROPOSAL BIASA DENGAN FRESH MONEY
+ADJUST EVENT GO DAN AZUKARI
+1. SELURUH EVENT GO & Azukari -> Flat Min 3jt - Maks 5jt (TARIF 5%)
+2. PAKET LENGKAP PREMIUM (DOORPRIZE) -> Cashback ads slider 400k diganti menjadi subsidi juri @250k (Maksimal 6 juri) 
+3. Subsidi juri di transfer langsung ke rekening juri
+4. Paket ads youtube bisa diganti dengan slider ads (1 bulan -> 1jt, free redesain 1)
 
-
-
-KOI POND CONTEST  FreshMoney Dihapus
-Event Bersama  1 Januari   BUAT PROPOSAL 
-1. POND CONSTEST TANPA HADIAH UANG
-    1. Support Produk
-    2. Dimulai 1 Januari 2026
-    3. Ads Video
-2. PROPOSAL BIASA DENGAN FRESH MONEY
-
-
-
+JUDGE OF THE YEAR 2025
