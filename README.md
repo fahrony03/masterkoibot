@@ -5,6 +5,47 @@ Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
 <!-- Update 171225 -->
 
+ANALISIS KOMPETITOR
+BOT LUKMAN (MY KOIS)
+- Hanya Rekap
+- Tidak ada Aplikasi
+- Hanya mengandalkan Grup WA
++ Kolaborasi dengan Youtuber untuk mencari market
++ Fee Gratis (seikhlasnya)
+
+KLEDO (LELANGAPP)
+- Hanya Aplikasi
++ UI/UX Jelas dan Bagus 
++ Input Lelang by Aplikasi
++ Fee Gratis
+
+TARGET MARKETING
+- Middle Low
+
+STRATEGI KEDEPAN
+- Banner di Petshop Offline
+- Kolaborasi dengan Pakan Middle Low (HEIWA, HIROYUKI, CPETINDO, MATAHARI SAKTI)
+- Semua input via Aplikasi (Daftar,input lelang,lapor BNR DLL) - KLEDO
+- Konten Hastag Tanya Bidder (Fokus juga untuk pertumbuhan Bidder Kedepan)
+- Penjurian Event Online (Fokus konten edukatif untuk referensi New bIdder)
+- Diarahkan untuk menggunakan Konten Video Youtube Master Koi BOT (spil ikan untuk Event) - Youtuber
+- Youtube (Fokus terhadap benefit seller untuk referensi bidder, lalu arahkan untuk bid ikan seller tersebut ke aplikasi Master Koi BOT)
+- Fauna Express salah satu bentuk customer 
+- Butuh Tim Devops terfokus di Master Koi BOT (Dibawahi Oleh Yuga King MU Selawase)
+- Konsultan Koi (Topo Harmoko Koi)
+
+WEAKNESS
+- BOT Mudah Terblokir
+- OTP 20 JAM Terlalu Luamaaaaaaa
+- Peninjauan terkait penggunaan bot seller
+- Sosial Media Subscriber
+
+
+
+
+
+
+
 INSENTIF NEW PRODUCT 
 50k Per Product (WAJIB ACC)
 
