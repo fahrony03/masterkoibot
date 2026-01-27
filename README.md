@@ -3,7 +3,31 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 171225 -->
+<!-- Update 140126 -->
+
+PENYESUAIAN INSENTIF
+1. UNDIAN BULANAN BIDDER = tidak terhitung insentif
+2. KOI SHOW/VISIT
+    - TIM YANG IKUT TIDAK MENDAPATKAN INSENTIF MEDIA SOSIAL
+3. LIVE
+    - LIKE DITURUNKAN DARI 5000 menjadi 1000 
+4. KONTEN
+    - MINIMAL 300 VIEW TERHITUNG INSENTIF
+    - JIKA VIEW LEBIH 5K, MAKA INSENTIF AKAN DIKALI 2
+    - JIKA VIEW LEBIH 20k, MAKA INSENTIF AKAN DIKALI 3
+5. PENARIKAN INVOICE
+    - INSENTIF LEMBUR DIHAPUS
+    - INSENTIF PERSELER DARI 2000 MENJADI 3500 (aqil 30%, andre 70%)
+6. MEKANISME LEMBUR
+    - INSENTIF LEMBUR DIMULAI DARI JAM 17.00 WIB
+    - ACC COO
+7. KUNJUNGAN/KOI SHOW UNTUK BIDDER
+    - MINIMAL 6 NEW BIDDER (WAJIB) - TIM
+    - APABILA MENDAPATKAN LEBIH ITU YANG AKAN DIHITUNG INSENTIF
+    - JIKA 6 TIDAK TERCAPAI MAKA NANTI AKAN DIBEBANKAN KETIM YANG IKUT, 25K PERBIDDER
+
+NUSATIC x NUSAPET 2026!
+- Lelang Hybird Offline Batch 2 -> PIC Gita 
 
 ANALISIS KOMPETITOR
 BOT LUKMAN (MY KOIS)
@@ -11,9 +35,16 @@ BOT LUKMAN (MY KOIS)
 - Tidak ada Aplikasi
 - Hanya mengandalkan Grup WA
 + Kolaborasi dengan Youtuber untuk mencari market
-+ Fee Gratis (seikhlasnya)
++ 20% FEE BOT (40.000.000)
+    1. Foto Video Ikan @20k = 1.600.000
+    2. Promosi Youtube = 1.000.000
+    3. Jasa BOT = 2.000.000
+    4. Piala = 1.600.000
+    5. Awarding Ceremony = 0
+    6. Fee Juri = 2.000.000
+    TOTAL = 8.200,000
 
-KLEDO (LELANGAPP)
+KLEDO (LELANG.APP)
 - Hanya Aplikasi
 + UI/UX Jelas dan Bagus 
 + Input Lelang by Aplikasi
@@ -22,23 +53,44 @@ KLEDO (LELANGAPP)
 TARGET MARKETING
 - Middle Low
 
-STRATEGI KEDEPAN
+STRATEGI KEDEPAN (EKSEKUSI)
 - Banner di Petshop Offline
 - Kolaborasi dengan Pakan Middle Low (HEIWA, HIROYUKI, CPETINDO, MATAHARI SAKTI)
 - Semua input via Aplikasi (Daftar,input lelang,lapor BNR DLL) - KLEDO
 - Konten Hastag Tanya Bidder (Fokus juga untuk pertumbuhan Bidder Kedepan)
-- Penjurian Event Online (Fokus konten edukatif untuk referensi New bIdder)
+- Penjurian Event Online (Fokus konten edukatif untuk referensi New bIdder) -> RUNNING ✅
 - Diarahkan untuk menggunakan Konten Video Youtube Master Koi BOT (spil ikan untuk Event) - Youtuber
 - Youtube (Fokus terhadap benefit seller untuk referensi bidder, lalu arahkan untuk bid ikan seller tersebut ke aplikasi Master Koi BOT)
-- Fauna Express salah satu bentuk customer 
-- Butuh Tim Devops terfokus di Master Koi BOT (Dibawahi Oleh Yuga King MU Selawase)
-- Konsultan Koi (Topo Harmoko Koi)
+- Fauna Express salah satu bentuk customer loyalty 
+- Butuh Tim Devops terfokus di Master Koi BOT (Dibawahi Oleh Yuga King MU Selawase) -> +1 Orang => GITA HARIABI
+    SOP - Akses By HandPhone :
+    1. Jika BOT father pengirim QR tidak respons / terblokir 
+    2. Pemindahan BOT father
+    3. Restart BOT / SSH
+- Fitur Baru Konsultan Koi (Topo Harmoko Nishikigoi Jember)
+
+Strategi Promosi
+- Endorse PIC GITA
+    1. JAF KOI CENTRE 
+    2. Audrey Official (ANDRE)(URGENTSIEEEEEE)
+    3. Ngalam.banyu 
+    4. Paman Keko
+
+STRATEGI MARKETING BOT MYKOIS
+
 
 WEAKNESS
-- BOT Mudah Terblokir
-- OTP 20 JAM Terlalu Luamaaaaaaa
-- Peninjauan terkait penggunaan bot seller
+- BOT Mudah Terblokir / Log Out
+- OTP 20 JAM Terlalu Lama -> Code OTP akan berlaku selama 20 Jam => Yuga (OTW)
+- Peninjauan terkait penggunaan BOT seller
+    Seller yang menggunakan BOT Seller dan member WAG diatas 100, FEE BOT diskon 1% 
+    Perbaikan metode scan BOT seller
 - Sosial Media Subscriber
+    Lebih fokus ke TikTok
+- Deposit Bidder/Seller
+- Pengembalian deposit bidder (200rb), saat ini 2x24 Jam (Terlalu Lama) -> Dibuat 1x24 Jam (Done)
+
+
 
 
 
@@ -151,13 +203,35 @@ PIC : ABIL
 
 
 JANUARI 2026
-PENGANGKATAN IKAN AZUKARI IWAK LARANG           10-11 JANUARI 2026 => ROM  (OTW)
-SERDADU KOI SHOW 2026                           16-18 JANUARI 2026 => TOPO (NO OTW)
-PENJURIAN BLITAR RAJA BRANTAS, GENDUT, KUNDEN   16-18 JANUARI 2026 => TOPO (OTW)    
+PENGANGKATAN IKAN AZUKARI IWAK LARANG           10-11 JANUARI 2026 => ROM  (OTW) -> DONE✅
+SERDADU KOI SHOW 2026                           16-18 JANUARI 2026 => TOPO (NO OTW) -> SUPPORT✅
+
+PENJURIAN BLITAR , GENDUT & KUNDEN   16-18 JANUARI 2026 => TOPO (OTW) 
+
+BLITAR - PENJURIAN 3 EVENT AZUKARI  -> 16 - 18 Jan 2025
+
+BERANGKAT JAM : 07.00
+
+DRESSCODE :
+Jum'at, 16 Jan 2026 : Vol 8.0
+Sabtu, 17 Jan 2026 : Kemeja Hitam
+Minggu, 18 Jan 2026 : Kemeja Putih 
+
+Barang Yang Akan dibawa :
+PIC : AQIL
+1. Jam Dinding => 3
+2. Kaos vol 8.0 => 8
+3. Ganci => 20
+4. Goodie Bag 15
+
 AZUKARI YAMAGEN                                 MINGGU KE 4
 
 FEBRUARI
-PALANGKARAYA KOI SHOW                           5-7 FEBRUARI 2026 => TOPO
+PALANGKARAYA KOI SHOW                           5-7 FEBRUARI 2026 => TOPO (DEAL)
+IJKS BRIN BOGOR                                 6-8 FEBRUARI 2026 -> TOPO 
+AGENDA     KUNJUNGAN OM HAES 
+            YAMAGEN KOI FARM BOGOR
+            
 
 SPPG SISTEM
 
@@ -239,7 +313,7 @@ ADS AND ENDORSE (Target Penghobi dan calon Penghobi)
 LIVE TIKTOK => Romadhon
     - Formal
         - 3 Podcast per Minggu (Top Seller, Top Bidder, Most Auction dan Juara Koi Show)
-            - Jum'at
+            - Jumat
             - Rabu 
             - Minggu
         - Pengundian bidder bulanan dibuat live (ytb & tiktok)
@@ -397,8 +471,15 @@ Ciri - ciri penghobi koi dishow
     - Liat-liat ikan diVAT
     - Berkunjung dengan keluarga 
 
-KOI POND CONTEST  FreshMoney Dihapus
-Event Bersama  1 Januari   BUAT PROPOSAL 
+KOI POND CONTEST
+
+FreshMoney Dihapus
+Event Bersama
+
+1 Januari
+
+
+BUAT PROPOSAL 
 1. POND CONSTEST TANPA HADIAH UANG => DONE✅
     1. Support Produk
     2. Dimulai 1 Januari 2026
