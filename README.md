@@ -5,6 +5,14 @@ Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
 <!-- Update 140126 -->
 
+JADWAL KERJA BULAN ROMADHON
+MASUK -> 09.30
+PULANG -> 15.00
+
+JADWAL BADMINTON BULAN ROMADHON
+SENIN -> 16.00
+RABU -> 16.00
+
 PENYESUAIAN INSENTIF
 1. UNDIAN BULANAN BIDDER = tidak terhitung insentif
 2. KOI SHOW/VISIT
