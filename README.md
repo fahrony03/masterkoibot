@@ -5,7 +5,32 @@ Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
 <!-- Update 180226 -->
 
-FEATURE
+PUNISHMENT
+    -> Seluruh Kerugian Menjadi Tanggung Jawab yang meloloskan
+
+KEWAJIBAN EVENT :
+MARKETING
+    -> Menjelaskan Teknis dan Rule Event
+    -> Membuat Group (Semua Tim)
+AQWILLL
+    -> Mengirimkan Form Pendaftaran Event
+    -> Cek Track Record Seller (Histori Tagihan)
+    -> Menghitung Jaminan Event
+    -> Menagih Jaminan
+    -> Konfirmasi ke Inputer
+INPUTER
+    -> Poster
+    -> Kolase
+    -> ID Lelang
+WAJIB MEMANTAU LELANG :
+MARKETING, INPUTER, PENAGIHAN
+
+SELURUH EVENT BERHADIAH UANG (KHUSUSON KC)
+    -> WAJIB JAMINAN KECUALI ADA PERINTAH TANPA JAMINAN DARI CEO
+    -> PERTIMBANGAN PENGADAAN EVENT DILIHAT DARI TRACK RECORD EVENT SEBELUMNYA, DAN SOLUSINYA DAPAT DIHITUNG DENGAN BESARAN DEPOSIT
+    -> HADIAH TROPHY SEMUA EVENT (KC,AZ,GO) WAJIB DISETORKAN KEPADA MASTER KOI BOT (DITAGIH AFTER EVENT)
+
+FEATURE :
 MENU BIDDER IKAN SAYA   -> FILTER SELLER (Current)
                         -> MODE LELANG (REGULER/KC/AZ/GO)
                         -> BULAN/SEMUA BULAN
@@ -123,14 +148,6 @@ WEAKNESS
     Lebih fokus ke TikTok
 - Deposit Bidder/Seller
 - Pengembalian deposit bidder (200rb), saat ini 2x24 Jam (Terlalu Lama) -> Dibuat 1x24 Jam (Done)
-
-
-
-
-
-
-
-
 
 INSENTIF NEW PRODUCT 
 50k Per Product (WAJIB ACC)
