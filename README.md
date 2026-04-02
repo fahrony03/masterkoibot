@@ -3,7 +3,38 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 110326 -->
+<!-- Update 010426 -->
+
+TIMELINE
+Senin, 6 Apr 2026 => Penjurian Panama Koi Sidoarjo Grow Out Batch 3&4
+Jum'at, 17 Apr 2026 => Penjurian Azukari Bagong Nishikigoi Malang
+                    => SIDAK KUNDEN, DANU & RAJA BRANTAS
+Sabtu, 18 Apr 2026 => Penjurian Azukari Furitaru & Djati Koi Centre Blitar & ETJO
+Minggu, 19 Apr 2026 => Penjurian Agung Koi Farm Kediri Batch 11 & Erra Koi Farm Blitar
+Rabu, 29 Apr - Jumat, 1 Mei 2026 => Koi Nation Batu Azukari Batch 1
+
+
+PEMBERANGKATAN TIM 17-19 April 2026 - Blitar Raya
+1. Erfan
+2. GT
+3. Topo
+4. Andre
+5. Fahrony
+
+PERHITUNGAN INSENTIF CREATOR
+TIKTOK
+1. Minimal 20 Like
+2. Minimal 500 View
+3. Content Original
+4. Target Penambahan Follower Perbulan Minimal 200
+5. Proporsional Content (Affiliate 1 : Creative 3)
+
+INSTAGRAM
+1. CAROUSEL 10 SLIDE
+2. SINGLE POST (POSTER TIDAK TERHITUNG)
+3. MINIMAL 20 LIKE
+4. MINIMAL 500 VIEW
+5. TARGET PENAMBAHAN FOLLOWER MINIMAL 100 PERBULAN
 
 ATTENTION!!!
 Special Lebaran Naik Lelang Tanggal 16,17,18 Maret 2026 Periode Lelang Dapat ditayangkan Selama Maksimal 10 Hari
