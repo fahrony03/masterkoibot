@@ -5,6 +5,26 @@ Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
 <!-- Update 010426 -->
 
+REVISI PIALA
+TOP SELLER
+1. Logo : Sesuai Warna Master Koi BOT
+2. Blok Warna Merah Dihapus
+
+TOP BIDDER
+1. Logo : Sesuai Warna Master Koi BOT
+2. Blok Warna Merah Dihapus
+
+PERSIAPAN MEDIA 
+BAGONG NISHIKIGOI
+1. Banner
+
+AGUNG KOI FARM
+1. Banner 4x1
+2. Karangan Bunga
+3. 
+
+
+
 TIMELINE
 Senin, 6 Apr 2026 => Penjurian Panama Koi Sidoarjo Grow Out Batch 3&4
 Jum'at, 17 Apr 2026 => Penjurian Azukari Bagong Nishikigoi Malang
