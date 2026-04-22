@@ -3,43 +3,50 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 010426 -->
+<!-- Update 220426 -->
 
-REVISI PIALA
-TOP SELLER
-1. Logo : Sesuai Warna Master Koi BOT
-2. Blok Warna Merah Dihapus
+REPORTING PERJALANAN BLITAR KEDIRI APRIL 2026
+1. Penagihan
+    - Raja Brantas => Surat Pernyataan (Diselesaikan dalam 1 bulan)
+    - Kunden Koi => Surat Pernyataan (Diselesaikan dalam 3 bulan secara dicicil)
+    MITIGASI RESIKO => 
+        -  
 
-TOP BIDDER
-1. Logo : Sesuai Warna Master Koi BOT
-2. Blok Warna Merah Dihapus
-
-PERSIAPAN MEDIA 
-BAGONG NISHIKIGOI
-1. Banner
-
-AGUNG KOI FARM
-1. Banner 4x1
-2. Karangan Bunga
-3. 
+LIGA JATENG 2026 - PASIF
 
 
-
-TIMELINE
-Senin, 6 Apr 2026 => Penjurian Panama Koi Sidoarjo Grow Out Batch 3&4
-Jum'at, 17 Apr 2026 => Penjurian Azukari Bagong Nishikigoi Malang
-                    => SIDAK KUNDEN, DANU & RAJA BRANTAS
-Sabtu, 18 Apr 2026 => Penjurian Azukari Furitaru & Djati Koi Centre Blitar & ETJO
-Minggu, 19 Apr 2026 => Penjurian Agung Koi Farm Kediri Batch 11 & Erra Koi Farm Blitar
-Rabu, 29 Apr - Jumat, 1 Mei 2026 => Koi Nation Batu Azukari Batch 1
-
-
-PEMBERANGKATAN TIM 17-19 April 2026 - Blitar Raya
+PEMBERANGKATAN EVENT AZUKARI - KOI NATION BATU
+PEMBERANGKATAN JAM 07.00
+TIM PEMBERANGKATAN 
 1. Erfan
-2. GT
-3. Topo
+2. Gita
+3. Romadhon
 4. Andre
-5. Fahrony
+
+DRESSCODE
+Rabu, 29 April 2026 - Vol 8.0 
+Kamis, 30 April 2026 - Seragam Putih 
+Jum'at, 01 Mei 2026 - Seragam Hitam
+
+AGENDA :
+- Rabu, 29 April 2026 - acara hanya makan malam dan briefing
+pkl 19.00 - lokasi hotel kontena, perwakilan dari masterkoibot untuk ikut briefing dinner 2 orang (karena ruangan terbatas) 
+- Kamis, 30 April 2026
+pkl 10.00 - panen Harvest G.O 1.0 di lokasi koi Nation
+(tim masterkoibot dan teman2 expert santai2 di lokasi menyaksikan saja)
+pkl 12.00 - makan siang di lokasi 
+pkl 14.00 - mulai opening Growth Out 2.0 , penjelasan dan pemilihan ikan oleh expert
+pkl 18.00 makan malam di lokasi, kemudian lanjut acara pemilihan G.O 2.0, pembagian kaos Show series
+- Jumat, 1 April 2026
+pkl 09.30 - Check Out hotel, menuju lokasi Koi Nation
+pkl 10.00 - mulai acara pembukaan show series, pemilihan ikan Nusatic Series
+pkl 11.30 - istirahat sholat jumat dan makan siang
+pkl 13.30 - pemilihan ikan Bogor Series
+pkl 15.00 - expert kembali ke blitar, kediri dan bandara
+
+
+1. Pembuatan Kaos Vol 8.1 Dengan logo dan tulisan "belanja koi jadi logis" versi large, perpaduhan merah dan hitam seperti vol 7.0, penempatan logo juga
+
 
 PERHITUNGAN INSENTIF CREATOR
 TIKTOK
