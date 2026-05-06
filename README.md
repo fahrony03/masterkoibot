@@ -3,50 +3,74 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 220426 -->
+<!-- Update 060526 -->
+SUPPORT SAKI HIKARI
+    - DIMULAI DARI BULAN JUNI DAN DIUNDI DIMULAI BULAN JULI
+    - TOP SELLER 1-3 -> MENDAPATKAN MERCHANDISE
+    - TOP BIDDER 1-3 -> MENDAPATKAN PAKAN 
+    - UNDIAN BIDDER BULANAN 1-5 -> MENDAPATKAN PAKAN 
+
+KOI NATION
+JPD KOI SHOW SERIES FOR NUSATIC
+    - 34 EKOR PILIHAN 10 EXPERT
+    - OB INCLUDE HANDLING REGISTRASI
+    - ADA 7 SERIES KOI SHOW
+    - MENJALANKAN LELANG - PENAGIHAN DAN PENYERAHAN KOMISI
+        - 10 EXPERT AKAN MENDAPATKAN KOMISI 5% DARI PENJUALAN IKAN
+        - 2 EXPERT TERBAIK FULL TRIP TO JAPAN (GABUNGAN DARI 2 EVENT)
+        - IKAN YANG CHAMPION DI KOI SHOW AKAN MENDAPATKAN POIN
+        - BUYER YANG INGIN MELANJUTKAN MENDAPATKAN POIN DI SERIES 2 DAN SETERUSNYA HARUS NGEBID LAGI DI SETIAP LELANG
+        - MEMBUAT VIDEO 30-60 DETIK MENJELASKAN EVENT KEDUANYA UNTUK DIIKLANKAN
+        - FOKUS KEDEPAN ADALAH MEDIA PROMOSI KEPADA HALAYAK UMUM
+        - MEMBUAT SLIDER KEDUA EVENT
+
+22-25 GROW OUT YOKOZUNA KNOCKOUT BATTLE
+    - 34 EKOR
+    - FULL PAKAN JPD
+    - DURASI 12 BULAN
+    - SISTEM KNOCK OUT DALAM PENJURIAN
+    - UNTUK MENYUSUN BATTLE STRUCTURE AKAN DIDRAW ATAU DIUNDI
+    - NOMINASI 8 BESAR (1JT)
+    - FULL TRIP JEPANG (BIDDER 6 ORANG, EXPERT 2 ORANG)
+    - 3 POND (SUMMER POND, WINTER POND, MEGA POND)
+
+PREPARE NUSATIC 2026 
+SERAGAM             - ON PROGRES
+PIALA               - ON PROGRES
+KONTRAKTOR          - GIGAS (KEPUTUSAN 7 MEI 2026)
+VENDOR KOLABORASI 
+    - TANI KOI MAJU (VENDOR SELLER KOI) Fixing Equipment
+    - MENGHUBUNGI OM LUTFI (VENDOR MINIATUR KOI)
+    - HOBYHOLIX (VENDOR KAOS)
+KONSUMSI            - ✅
+PENGINAPAN          - DONE✅
+DIGITAL SIGNAGE & MONITOR   -
+    - FULL BRANDING
+    - PAKET DATA 24GB
+    - LAYAR SENTUH SENSITIF
+LELANG WAJIB SHOW NUSATIC
+    - MENGHUBUNGI AJAY (KOLABORASI)
+    - FLAT FEE 100k DIAWAL
+    - INSENTIF MARKETING
+        - 1-10 EKOR @25K
+        - 11-25 EKOR @30K
+        - 26-100 EKOR @35K
+        - 100++ EKOR @50K
+    - 10K INPUTER
+    - 10K PENAGIHAN
+    - SISANYA MASTER KOI
+
+KPI NUSATIC
+- Dibuktikan dengan nomor
+- Target Perhari 30 Downloader (Per orang 5)
+- Jika mau Deposit dan Ngebid dapat tambahan Merchandise (Kaos)
+- Punishment Minus 20% perbidder dari uang saku (Perhitungan dari saku 150k : 5 Bidder)
+- Lebih 10 Bidder (Tambahan + 25 Ribu)
 
 REPORTING PERJALANAN BLITAR KEDIRI APRIL 2026
 1. Penagihan
     - Raja Brantas => Surat Pernyataan (Diselesaikan dalam 1 bulan)
     - Kunden Koi => Surat Pernyataan (Diselesaikan dalam 3 bulan secara dicicil)
-    MITIGASI RESIKO => 
-        -  
-
-LIGA JATENG 2026 - PASIF
-
-
-PEMBERANGKATAN EVENT AZUKARI - KOI NATION BATU
-PEMBERANGKATAN JAM 07.00
-TIM PEMBERANGKATAN 
-1. Erfan
-2. Gita
-3. Romadhon
-4. Andre
-
-DRESSCODE
-Rabu, 29 April 2026 - Vol 8.0 
-Kamis, 30 April 2026 - Seragam Putih 
-Jum'at, 01 Mei 2026 - Seragam Hitam
-
-AGENDA :
-- Rabu, 29 April 2026 - acara hanya makan malam dan briefing
-pkl 19.00 - lokasi hotel kontena, perwakilan dari masterkoibot untuk ikut briefing dinner 2 orang (karena ruangan terbatas) 
-- Kamis, 30 April 2026
-pkl 10.00 - panen Harvest G.O 1.0 di lokasi koi Nation
-(tim masterkoibot dan teman2 expert santai2 di lokasi menyaksikan saja)
-pkl 12.00 - makan siang di lokasi 
-pkl 14.00 - mulai opening Growth Out 2.0 , penjelasan dan pemilihan ikan oleh expert
-pkl 18.00 makan malam di lokasi, kemudian lanjut acara pemilihan G.O 2.0, pembagian kaos Show series
-- Jumat, 1 April 2026
-pkl 09.30 - Check Out hotel, menuju lokasi Koi Nation
-pkl 10.00 - mulai acara pembukaan show series, pemilihan ikan Nusatic Series
-pkl 11.30 - istirahat sholat jumat dan makan siang
-pkl 13.30 - pemilihan ikan Bogor Series
-pkl 15.00 - expert kembali ke blitar, kediri dan bandara
-
-
-1. Pembuatan Kaos Vol 8.1 Dengan logo dan tulisan "belanja koi jadi logis" versi large, perpaduhan merah dan hitam seperti vol 7.0, penempatan logo juga
-
 
 PERHITUNGAN INSENTIF CREATOR
 TIKTOK
@@ -63,26 +87,16 @@ INSTAGRAM
 4. MINIMAL 500 VIEW
 5. TARGET PENAMBAHAN FOLLOWER MINIMAL 100 PERBULAN
 
-ATTENTION!!!
-Special Lebaran Naik Lelang Tanggal 16,17,18 Maret 2026 Periode Lelang Dapat ditayangkan Selama Maksimal 10 Hari
-
 ANTI DEPOSIT SELLER :
 PENGAJUAN BEBAS DEPOSIT (PENGECUALIAN UNTUK SELLER BESAR/EVENT):
     -> Dibayarkan oleh Seller
 
-LIBUR LEBARAN :
-    -> Kamis, 19 Maret 2026
-MASUK LEBARAN :
-    -> Kamis, 26 Maret 2026
-HALAL BIHALAL (YUGA HOME):
-    -> Sabtu/Minggu, 4/5 April 2026
-
-PUNISHMENT
-    -> Seluruh Kerugian Menjadi Tanggung Jawab yang meloloskan
 KEWAJIBAN EVENT :
 MARKETING
     -> Menjelaskan Teknis dan Rule Event
     -> Membuat Group (Semua Tim)
+PUNISHMENT
+    -> Seluruh Kerugian Menjadi Tanggung Jawab yang meloloskan
 AQWILLL
     -> Mengirimkan Form Pendaftaran Event
     -> Cek Track Record Seller (Histori Tagihan)
@@ -132,14 +146,6 @@ AZUKARI
 
 TARGET MASTER KOI STORE
     -> 50 SELLER DENGAN ASUMSI 1 PRODUK 1 SELLER
-
-JADWAL KERJA BULAN ROMADHON
-MASUK   -> 09.30
-PULANG  -> 15.00
-
-JADWAL BADMINTON BULAN ROMADHON
-SENIN   -> 16.00
-RABU    -> 16.00
 
 PENYESUAIAN INSENTIF
 1. UNDIAN BULANAN BIDDER = tidak terhitung insentif
@@ -244,122 +250,6 @@ DOORPRIZE --> MASTER KOI STORE
 
 PER 1 JULI 2025 EVENT KC WAJIB JAMINAN | OB x JUMLAH IKAN
 PER 1 JULI 2025 EVENT GO dan AZUKARI WAJIB JAMINAN | 5.000.000 | Seller yang belum Tervalidasi
-
-NOVEMBER
-1.⁠ BAKC KOI SHOW                       NOVEMBER 2025  => Topo 
-2.⁠ MAKASSAR KOI SHOW                   14-16 NOVEMBER 2025  => Topo 
-3.⁠ ⁠MAGELANG                            NOVEMBER 2025  => Topo 
-4.⁠ ⁠SOLO                                21 - 23 NOVEMBER 2025  => Topo
-                                       PIC = ROMADHON 
-                                       2jt Fresh Money Akan di TF Hari Senin 24 Nov 
-                                       & 3jt Produk Meliputi :
-                                       2 Auto Feeder => 1.8jt
-                                       5 Kaos Vol 7.0 => 750rb
-                                       5 Jam Dinding => 500rb
-                                       5 Mug => 250rb
-                                       Required :
-                                       Piala => Topo
-
-TIM PEMBERANGKATAN :
-1. Erfan
-2. GT
-3. ROM
-4. RONY
-5. DESI
-6. ABIL
-
-BERANGKAT JAM : 07.30
-
-DRESSCODE
-Jumat, 21 Nov 2025 : Vol 5.0
-Sabtu, 22 Nov 2025 : Vol 7.0
-Minggu, 23 Nov 2025 : Seragam Hitam 
-
-Barang Yang Akan dibawa :
-PIC : ABIL
-1. Auto Feeder Besar => 1
-2. Auto Feeder Mini => 1
-3. Jam Dinding => 8
-4. Kaos vol 7.0 => 12
-5. Mug => 8
-6. Ganci => 100
-7. Stand
-8. Roll Banner => 2
-9. Rak
-10. Goodie Bag 100
-
-
-
-6. GRAND LAUNCHING YAMAGEN KOI SHINKOKAI
-7. BONTANG KOI SHOW                    7 - 9 November 2025
-
-
-DESEMBER
-BLITAR KOI SHOW                     5-7 DESEMBER 2025  => Topo 
-JEMBER KOI SHOW                     28-30 DESEMBER 2029  => Topo
-FINAL LIGA JATENG - PATI KOI SHOW | DESEMBER JOS
-                                        FEEDBACK : KAOS 6 | TUKAR(BT) 6
-                                        Support :
-                                        Fresh Money 5 JT (Sudah ada inv)
-                                        Piala Favorit 3 JT
-TIM PEMBERANGKATAN :
-
-
-
-BERANGKAT JAM : 07.30
-
-DRESSCODE
-Jumat, 21 Nov 2025 : Vol 5.0
-Sabtu, 22 Nov 2025 : Vol 7.0
-Minggu, 23 Nov 2025 : Seragam Hitam 
-
-Barang Yang Akan dibawa :
-PIC : ABIL
-1. Auto Feeder Besar => 1
-2. Auto Feeder Mini => 1
-3. Jam Dinding => 8
-4. Kaos vol 7.0 => 12
-5. Mug => 8
-6. Ganci => 100
-7. Stand
-8. Roll Banner => 2
-9. Rak
-10. Goodie Bag 100
-
-
-JANUARI 2026
-PENGANGKATAN IKAN AZUKARI IWAK LARANG           10-11 JANUARI 2026 => ROM  (OTW) -> DONE✅
-SERDADU KOI SHOW 2026                           16-18 JANUARI 2026 => TOPO (NO OTW) -> SUPPORT✅
-
-PENJURIAN BLITAR , GENDUT & KUNDEN   16-18 JANUARI 2026 => TOPO (OTW) 
-
-BLITAR - PENJURIAN 3 EVENT AZUKARI  -> 16 - 18 Jan 2025
-
-BERANGKAT JAM : 07.00
-
-DRESSCODE :
-Jum'at, 16 Jan 2026 : Vol 8.0
-Sabtu, 17 Jan 2026 : Kemeja Hitam
-Minggu, 18 Jan 2026 : Kemeja Putih 
-
-Barang Yang Akan dibawa :
-PIC : AQIL
-1. Jam Dinding => 3
-2. Kaos vol 8.0 => 8
-3. Ganci => 20
-4. Goodie Bag 15
-
-AZUKARI YAMAGEN                                 MINGGU KE 4
-
-FEBRUARI
-PALANGKARAYA KOI SHOW                           5-7 FEBRUARI 2026 => TOPO (DEAL)
-IJKS BRIN BOGOR                                 6-8 FEBRUARI 2026 -> TOPO 
-AGENDA     KUNJUNGAN OM HAES 
-            YAMAGEN KOI FARM BOGOR
-            
-
-SPPG SISTEM
-
 
 Master Koi BOT GO INTERNASIONAL
 1.⁠ ⁠Multi Languages Indonesia dan Inggris
@@ -623,7 +513,7 @@ KOORDINASI TERKAIT AKUN YANG DI MENTION
 KEJARRRRRRR!!!!
 
 
-ADJUST EVENT KC (JADIKAN SEBAGAI POSTER) - WAJIB JAMINAN‼️✝️
+ADJUST EVENT KC (JADIKAN SEBAGAI POSTER) - WAJIB JAMINAN‼️
 1. SELURUH KC -> Flat Min 1jt - Maks 3jt (TARIF 5%)
 2. PAKET LENGKAP PREMIUM (DOORPRIZE) -> Cashback ads slider 400k diganti menjadi subsidi juri @250k (Maksimal 5 juri)
 3. Subsidi juri di transfer langsung ke rekening juri
@@ -635,5 +525,3 @@ ADJUST EVENT GO DAN AZUKARI
 2. PAKET LENGKAP PREMIUM (DOORPRIZE) -> Cashback ads slider 400k diganti menjadi subsidi juri @250k (Maksimal 6 juri) 
 3. Subsidi juri di transfer langsung ke rekening juri
 4. Paket ads youtube bisa diganti dengan slider ads (1 bulan -> 1jt, free redesain 1)
-
-JUDGE OF THE YEAR 2025
