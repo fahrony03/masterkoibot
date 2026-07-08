@@ -3,7 +3,36 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 060526 -->
+<!-- Update 010726 -->
+
+
+
+Ide 
+1. Halaman Lelang Premium
+    - Bayar didepan untuk naik lelang (250k)
+    - Bidder yang bisa ngebid ada filtrasi (deposit 2,5jt/performa Menang Minimal 50 Ekor/Minimal Belanja 25jt)
+2. Dengan Adanya MOOFISH, ada tambahan fitur/Halaman lelang khusus ikan lain (FISH)
+
+FITUR EVENT
+1. Membuat Halaman URL Dashboard Event
+2. Desain Halaman
+3. Mrkoi.bid/events
+4. Isi Poster Event, Logo Event, Tombol Detail Event
+5. Filter Bulan
+6. GMV
+
+HALAMAN DETAIL EVENT
+1. FOTO IKAN BEFORE - AFTER
+2. TOMBOL VIDEO BEFORE - AFTER
+3. POSTER EVENT
+4. GROUP BY SELLER
+5. SHARE ID IKAN
+
+
+RULE/PAKEM PENJURIAN EVENT
+1. 
+
+
 SUPPORT SAKI HIKARI
     - DIMULAI DARI BULAN JUNI DAN DIUNDI DIMULAI BULAN JULI
     - TOP SELLER 1-3 -> MENDAPATKAN MERCHANDISE
