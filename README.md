@@ -3,9 +3,52 @@ Weekly Meeting Master Koi BOT
 
 Hasil Agenda Rapat Rutin Mingguan, Semangat Teams🔥
 
-<!-- Update 010726 -->
+<!-- Update 150726 -->
+
+DIVISI MARKETING
+1. PEMISAHAN OMZET ANTARA EVENT DAN REGULER
+2. TREATMENT SELLER
+    - Free Push Untuk Seller dengan kelipatan lelang 5
+3. DASHBOARD MARKETING (Erfan)
+4. DATA BUYER BARU (WoW) 
+5. DATA SELLER NAIK LELANG (MoM)
+6. DATA SELLER PRIORITY (MoM)
+7. PEMBERITAHUAN PUSH SETELAH SELLER START LELANG
+8. BADGE & RATING SETIAP SELLER DITAMPILKAN
+9. TAMPILAN SELLER DIDETAIL IKAN (TIDAK ADA RESPON APA")
 
 
+PERJALANAN MAS YUGA -> 22 Juli 2026
+FULL TIM
+DRESSCODE -> VOL 8.1 BERSEPATU WAJIB
+PEMBERANGKATAN JAM 9
+2 MOBIL (MOBIL ERFAN & MOBIL AQWIL)
+
+Kediri Koi Show (Open Stand)
+31 Juli - 2 Agustus 2026
+TIM PEMBERANGKATAN
+1. ERFAN
+2. ARIF
+3. RONY
+4. ROM
+5. TOPO H
+
+SURVEY INDOPET 
+20 Juli 2026
+
+PENJURIAN ALP KOI PATI 
+24-25 Juli 2026
+
+TIM PEMBERANGKATAN
+1. Gita
+2. Romadhon
+3. Andre 
+4. Aqil
+
+IKLAN SPACE ADS
+1. Diskon 75% Perbulan (500K)
+2. Paket 6 Bulan Hanya 2.5jt (Bonus 1 Konten Produk)
+3. Khusus Seller yang ngepush Total 1jt/10x dalam bulan yang sama, dapat free iklan 1 bulan (Dikontenin)
 
 Ide 
 1. Halaman Lelang Premium
