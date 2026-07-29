@@ -26,12 +26,30 @@ PEMBERANGKATAN JAM 9
 
 Kediri Koi Show (Open Stand)
 31 Juli - 2 Agustus 2026
-TIM PEMBERANGKATAN
-1. ERFAN
-2. ARIF
-3. RONY
-4. ROM
-5. TOPO H
+TIM PEMBERANGKATAN JAM 07.00
+1. ARIF
+2. RONY
+3. ROM
+4. TOPO H
+
+Barang yang dibawa:
+1. Kaos (15pcs)
+2. Gantungan Kunci (100)
+3. Stand Booth
+4. Jam Dinding (5 pcs)
+5. Goodie Bag 
+6. Bendera
+
+DressCode:
+Jum'at, 31 Juli 2026 : Kaos Vol 8.0
+Sabtu, 01 Agustus 2026 : Kaos Vol 8.1
+Minggu, 02 Agustus 2026 : Seragam Biru New New
+Cadangan : Kaos Vol 7.0
+
+Agenda : Kharis Raja Brantas, Kunden Koi
+Agenda Tambahan : Penjurian Erra Koi Blitar
+
+
 
 SURVEY INDOPET 
 20 Juli 2026
